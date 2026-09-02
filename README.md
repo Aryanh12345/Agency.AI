@@ -245,15 +245,6 @@ npm run preview
 npm run deploy
 ```
 
-## 📸 Screenshots
-
-Add screenshots of your website here.
-
-Example:
-
-```markdown
-![Agency.ai Homepage](./screenshots/homepage.png)
-```
 
 ## 🤝 Contributing
 
