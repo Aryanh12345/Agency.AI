@@ -6,8 +6,6 @@ Agency.ai presents a clean digital-agency experience with animated sections, res
 
 ## 🌐 Live Demo
 
-## 🌐 Live Demo
-
 [Visit Agency.AI](https://aryanh12345.github.io/Agency.AI/)
 
 ## ✨ Features
